@@ -3,22 +3,13 @@
 </div>
 
 <div align="center">
-  <h2> ✨ IT Student | Software Developer | AI Enthusiast ✨ </h2>
+  <h2>  IT Student | Software Developer | AI Enthusiast  </h2>
   <p> <b> مبرمجة شغوفة بحل المشكلات والذكاء الاصطناعي </b> </p>
 </div>
 
 ---
-
-### 🌸 نبذة عني | About Me
-- 🎓 **طالبة تقنية معلومات - مستوى رابع** | IT Student - Level 4.
-- 🚀 **حل أكثر من 2000 مسألة برمجية في C++** | Solved +2000 problems in C++.
-- 🧠 **مهتمة بالذكاء الاصطناعي والشبكات العصبونية** | Passionate about AI & Neural Networks.
-- ✍️ **صانعة محتوى تقني على انستجرام** | Tech Content Creator on Instagram [**@3n_m99**](https://www.instagram.com/3n_m99).
-- 🎨 **مبدعة في تصميم الواجهات وتوثيق المشاريع** | Creative in UI Design & Documentation.
-
----
-
-### 🛠️ المهارات التقنية | Tech Stack
+ 
+ | Tech Stack
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=py,cpp,cs,js,php,html,css" height="45" alt="languages" />
