@@ -1,10 +1,12 @@
-<div align="center">
-  <img src="https://capsule-render.vercel.app/render?type=soft&color=1F2328&height=150&section=header&text=Nadeen%20Mohamed&fontSize=50" alt="header" />
+<div align="center" style="background-color: #1F2328; padding: 30px; border-radius: 10px;">
+  <h1 style="color: #ffffff; margin: 0; font-size: 38px; font-family: monospace;">NADEEN MOHAMED</h1>
+  <p style="color: #8b949e; margin: 5px 0 0 0; font-size: 18px;">Information Technology Student | Software Developer</p>
 </div>
 
+<br>
+
 <div align="center">
-  <h1>Information Technology Student | Software Developer</h1>
-  <p>Specialized in software development, database management, and desktop/mobile applications.</p>
+  <p>Specialized in software development, database management, and structured project management solutions.</p>
 </div>
 
 ---
@@ -20,25 +22,18 @@
 **Database Management**
 <img src="https://img.shields.io/badge/MySQL-1F2328?style=flat&logo=mysql&logoColor=white" /> <img src="https://img.shields.io/badge/SQL%20Server-1F2328?style=flat&logo=microsoft-sql-server&logoColor=white" /> <img src="https://img.shields.io/badge/Hive%20(NoSQL)-1F2328?style=flat" /> <img src="https://img.shields.io/badge/SQL%20Commands%20%26%20GUI-1F2328?style=flat" />
 
-**Web Frontend & Development Tools**
-<img src="https://img.shields.io/badge/HTML5%20%26%20CSS3-1F2328?style=flat&logo=html5&logoColor=white" /> <img src="https://img.shields.io/badge/VS%20Code-1F2328?style=flat&logo=visual-studio-code&logoColor=white" /> <img src="https://img.shields.io/badge/Git%20%26%20GitHub-1F2328?style=flat&logo=github&logoColor=white" />
+**Web Frontend & Core Tools**
+<img src="https://img.shields.io/badge/HTML5%20%26%20CSS3-1F2328?style=flat&logo=html5&logoColor=white" /> <img src="https://img.shields.io/badge/Git-1F2328?style=flat&logo=git&logoColor=white" /> <img src="https://img.shields.io/badge/GitHub-1F2328?style=flat&logo=github&logoColor=white" />
 
----
-
-### Featured Projects
-
-* **Examination Management System:** A comprehensive desktop application built with Python (Tkinter) and MySQL for managing academic evaluations.
-* **Logic Gate Simulator:** Developed and trained a neural network from scratch to simulate logical operations.
-* **Enterprise Task Manager:** A Windows Forms application built with C# for employee coordination and daily task tracking.
-* **Network Socket Programming:** Implementation of a reliable Client-Server communication architecture utilizing the UDP protocol.
+**Project Management**
+<img src="https://img.shields.io/badge/Microsoft%20Project-1F2328?style=flat&logo=microsoft-project&logoColor=white" />
 
 ---
 
 ### GitHub Statistics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=NadeenMohammed-ali&show_icons=true&theme=vivid_gradient&hide_border=true" height="150" alt="stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NadeenMohammed-ali&theme=vivid_gradient&hide_border=true" height="150" alt="streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NadeenMohammed-ali&theme=dark&hide_border=true" height="150" alt="streak" />
 </div>
 
 ---
@@ -55,10 +50,4 @@
   <a href="https://www.instagram.com/3n_m99">
     <img src="https://img.shields.io/badge/Instagram-1F2328?style=flat-square&logo=instagram&logoColor=white" height="35" />
   </a>
-</div>
-
-<br>
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/NadeenMohammed-ali/NadeenMohammed-ali/output/pacman-contribution-graph-dark.svg" width="100%" alt="pacman graph" />
 </div>
